@@ -14,7 +14,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></div>
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="10%" height="10%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></div>
 <br>
 
 - A passionate Self-taught Front-end developer
