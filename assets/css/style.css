@@ -9240,6 +9240,7 @@ figcaption {
           .slide .content .inner p.discs {
             width: 100%; } }
       .slide .content .inner .description {
+        text-align: justify;
         font-size: 16px;
         line-height: 30px;
         color: var(--color-lightn);
@@ -10566,6 +10567,7 @@ div#featured-project-carousel {
     position: relative;
     z-index: 2;
     margin-top: 50px;
+    text-align: justify;
     padding: 45px 40px;
     border-radius: 6px;
     background: var(--background-color-1);
@@ -14643,6 +14645,18 @@ body.white-version {
 .white-version .slider-style-6 .cd-headline span {
   color: var(--color-white) !important; }
 
+
+@media only screen and (max-width: 991px){  
+  .disapper{
+    display: none;
+  }  
+}
+
+  @media only screen and (min-width: 992px){  
+  .appear{
+    display: none;
+  }  
+}
 
 /* popup */
 
