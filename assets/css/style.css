@@ -14658,6 +14658,13 @@ body.white-version {
   }  
 }
 
+.down{
+  color: var(--color-primary);
+}
+
+.down:hover{
+  color: #ffffff;
+}
 /* popup */
 
 .popup-container {
